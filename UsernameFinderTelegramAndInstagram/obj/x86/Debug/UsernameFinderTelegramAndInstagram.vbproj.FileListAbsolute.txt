@@ -1,0 +1,10 @@
+C:\Users\mktad\onedrive\documents\visual studio 2010\Projects\UsernameFinderTelegramAndInstagram\UsernameFinderTelegramAndInstagram\bin\Debug\UsernameFinderTelegramAndInstagram.exe
+C:\Users\mktad\onedrive\documents\visual studio 2010\Projects\UsernameFinderTelegramAndInstagram\UsernameFinderTelegramAndInstagram\bin\Debug\UsernameFinderTelegramAndInstagram.pdb
+C:\Users\mktad\onedrive\documents\visual studio 2010\Projects\UsernameFinderTelegramAndInstagram\UsernameFinderTelegramAndInstagram\bin\Debug\UsernameFinderTelegramAndInstagram.xml
+C:\Users\mktad\onedrive\documents\visual studio 2010\Projects\UsernameFinderTelegramAndInstagram\UsernameFinderTelegramAndInstagram\obj\x86\Debug\UsernameFinderTelegramAndInstagram.Main.resources
+C:\Users\mktad\onedrive\documents\visual studio 2010\Projects\UsernameFinderTelegramAndInstagram\UsernameFinderTelegramAndInstagram\obj\x86\Debug\UsernameFinderTelegramAndInstagram.Resources.resources
+C:\Users\mktad\onedrive\documents\visual studio 2010\Projects\UsernameFinderTelegramAndInstagram\UsernameFinderTelegramAndInstagram\obj\x86\Debug\UsernameFinderTelegramAndInstagram.Server.resources
+C:\Users\mktad\onedrive\documents\visual studio 2010\Projects\UsernameFinderTelegramAndInstagram\UsernameFinderTelegramAndInstagram\obj\x86\Debug\UsernameFinderTelegramAndInstagram.vbproj.GenerateResource.Cache
+C:\Users\mktad\onedrive\documents\visual studio 2010\Projects\UsernameFinderTelegramAndInstagram\UsernameFinderTelegramAndInstagram\obj\x86\Debug\UsernameFinderTelegramAndInstagram.exe
+C:\Users\mktad\onedrive\documents\visual studio 2010\Projects\UsernameFinderTelegramAndInstagram\UsernameFinderTelegramAndInstagram\obj\x86\Debug\UsernameFinderTelegramAndInstagram.xml
+C:\Users\mktad\onedrive\documents\visual studio 2010\Projects\UsernameFinderTelegramAndInstagram\UsernameFinderTelegramAndInstagram\obj\x86\Debug\UsernameFinderTelegramAndInstagram.pdb
